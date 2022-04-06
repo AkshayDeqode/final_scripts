@@ -52,7 +52,7 @@ for project in bb_projects:
                 report['tag'].append(tag['displayId'])
                 report['project'].append(project['name'])
         df=pd.DataFrame(report)
-        if os.path.exists("status.csv"):
-            df.to_csv("status.csv", mode="a", header=False, index=False)
+        if os.path.exists("tags_status.csv"):
+            df.to_csv("tag_status.csv", mode="a", header=False, index=False)
         else:
-            df.to_csv("status.csv",  index=False)
+            df.to_csv("tag_status.csv",  index=False)
