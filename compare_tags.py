@@ -53,6 +53,6 @@ for project in bb_projects:
                 report['project'].append(project['name'])
         df=pd.DataFrame(report)
         if os.path.exists("tags_status.csv"):
-            df.to_csv("tag_status.csv", mode="a", header=False, index=False)
+            df.to_csv("tags_status.csv", mode="a", header=False, index=False)
         else:
-            df.to_csv("tag_status.csv",  index=False)
+            df.to_csv("tags_status.csv",  index=False)
