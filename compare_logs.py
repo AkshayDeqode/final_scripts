@@ -73,16 +73,16 @@ for project in projects:
                     gl_dict[gl_commit_id] = [gl_message, gl_author, gl_email, gl_author_tp]
                 except:
                     pass
-            report={"commit_id":[],"branch":[] ,"commit_message":[]}#, "difference_location":[]}
+            report={"commit_id":[],"branch":[] ,"commit_details":[]}#, "difference_location":[]}
             for key, value in bb_dict.items():
                 if key not in gl_dict:
                     # print(gl_dict)
                     report["commit_id"].append(key)
                     report["branch"].append(gl_branch.name)
-                    report["commit_message"].append(value)
+                    report["commit_details"].append(value)
             report=pd.DataFrame(report)
-
-            if len(report):  
-                print(report)
+            if os.path.exists("commit_status.csv"):
+                report.to_csv("commit_status.csv", mode="a", header=False, index=False)
             else:
-                print("NO DIFFERENCES FOUND")
+                report.to_csv("commit_status.csv",  index=False)
+            print(report)

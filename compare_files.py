@@ -62,7 +62,7 @@ for b_proj in bitbucket_proj:
 
             for value in bb_files['file']:
                 if value in gl_files['file']:
-                    print(value, "mill gya")
+                    pass
                 else:
                     status["project"].append(b_proj.get('name'))
                     status["repo"].append(brepo.get('name'))
