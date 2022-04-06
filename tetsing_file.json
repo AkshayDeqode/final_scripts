@@ -1,0 +1,514 @@
+[
+    {
+        "Group":  "BitBucket Access",
+        "Members":  [
+                        {
+                            "Name":  "Hans Smit",
+                            "Mail":  "hans.smit@nice.com"
+                        },
+                        {
+                            "Name":  "Mustafa Omerovic",
+                            "Mail":  "mustafa.omerovic@nice.com"
+                        },
+                        {
+                            "Name":  "Jan Armijn van Dam",
+                            "Mail":  "janarmijn.vandam@nice.com"
+                        },
+                        {
+                            "Name":  "Cees Kaas",
+                            "Mail":  "cees.kaas@nice.com"
+                        },
+                        {
+                            "Name":  "Marco Klaver",
+                            "Mail":  "Marco.Klaver@nice.com"
+                        },
+                        {
+                            "Name":  "Olga Molenaar",
+                            "Mail":  "Olga.Molenaar@nice.com"
+                        },
+                        {
+                            "Name":  "Peter Bosman",
+                            "Mail":  "Peter.Bosman@nice.com"
+                        },
+                        {
+                            "Name":  "Thomas Wensink",
+                            "Mail":  "thomas.wensink-sneeboer@nice.com"
+                        },
+                        {
+                            "Name":  "Jeffrey Bindinga",
+                            "Mail":  "Jeffrey.Bindinga@nice.com"
+                        },
+                        {
+                            "Name":  "Cristian Boya",
+                            "Mail":  "Cristian.BoyadeGroot@nice.com"
+                        },
+                        {
+                            "Name":  "Jaimy Pronk",
+                            "Mail":  "jaimy.pronk@nice.com"
+                        },
+                        {
+                            "Name":  "cruisecontrol",
+                            "Mail":  "cruisecontrol@ad.cssrd.com"
+                        },
+                        {
+                            "Name":  "Daniel Privalov",
+                            "Mail":  "Daniel.Privalov@nice.com"
+                        },
+                        {
+                            "Name":  "Eva Gonzalez Gonzalez",
+                            "Mail":  "Eva.GonzalezGonzalez@nice.com"
+                        },
+                        {
+                            "Name":  "Martin Kaas",
+                            "Mail":  "martin.kaas@nice.com"
+                        },
+                        {
+                            "Name":  "Nikolay Antipin",
+                            "Mail":  "nikolay.antipin@nice.com"
+                        },
+                        {
+                            "Name":  "Aleksei Vorobev",
+                            "Mail":  "Aleksei.Vorobev@nice.com"
+                        },
+                        {
+                            "Name":  "Jaap Hesp",
+                            "Mail":  "Jaap.Hesp@nice.com"
+                        },
+                        {
+                            "Name":  "Rabindra Harlalka",
+                            "Mail":  "Rabindra.Harlalka@nice.com"
+                        },
+                        {
+                            "Name":  "Rob Kiebert",
+                            "Mail":  "rob.kiebert@nice.com"
+                        },
+                        {
+                            "Name":  "Shakti Chawla",
+                            "Mail":  "Shakti.Chawla@nice.com"
+                        },
+                        {
+                            "Name":  "Dhiraj Jain",
+                            "Mail":  "Dhiraj.Jain@nice.com"
+                        },
+                        {
+                            "Name":  "Chirag Kavathiya",
+                            "Mail":  "Chirag.Kavathiya@nice.com"
+                        },
+                        {
+                            "Name":  "Dhananjay Sarnaik",
+                            "Mail":  "Dhananjay.Sarnaik@nice.com"
+                        },
+                        {
+                            "Name":  "Ravi Karavadia",
+                            "Mail":  "Ravi.Karavadia@nice.com"
+                        },
+                        {
+                            "Name":  "Paul Hagendoorn",
+                            "Mail":  "Paul.Hagendoorn@nice.com"
+                        },
+                        {
+                            "Name":  "Revansiddh Borgaonkar",
+                            "Mail":  "Revansiddh.Borgaonkar@nice.com"
+                        },
+                        {
+                            "Name":  "Valera Bychenko",
+                            "Mail":  "Valera.Bychenko@nice.com"
+                        },
+                        {
+                            "Name":  "Nilesh Swami",
+                            "Mail":  "Nilesh.Swami@nice.com"
+                        },
+                        {
+                            "Name":  "Kaan Kaya",
+                            "Mail":  "kaan.kaya@nice.com"
+                        },
+                        {
+                            "Name":  "Merijn Baars",
+                            "Mail":  "merijn.baars@nice.com"
+                        },
+                        {
+                            "Name":  "Sagar Gire",
+                            "Mail":  "Sagar.Gire@nice.com"
+                        },
+                        {
+                            "Name":  "Mayur Kurkure",
+                            "Mail":  "Mayur.Kurkure@nice.com"
+                        },
+                        {
+                            "Name":  "Francois Neau",
+                            "Mail":  "francois.neau@nice.com"
+                        },
+                        {
+                            "Name":  "Mathijs de Zwart",
+                            "Mail":  "Mathijs.deZwart@nice.com"
+                        },
+                        {
+                            "Name":  "Shani Angluster",
+                            "Mail":  "Shani.Angluster@nice.com"
+                        },
+                        {
+                            "Name":  "Tushar Deore",
+                            "Mail":  "tushar.deore@nice.com"
+                        },
+                        {
+                            "Name":  "Keagan Ladds",
+                            "Mail":  "Keagan.Ladds@nice.com"
+                        },
+                        {
+                            "Name":  "Amit Gandhi",
+                            "Mail":  "Amit.Gandhi@nice.com"
+                        },
+                        {
+                            "Name":  "Amanda Macleod",
+                            "Mail":  "Amanda.Macleod@nice.com"
+                        },
+                        {
+                            "Name":  "Rene Kleyn",
+                            "Mail":  "rene.kleyn@nice.com"
+                        },
+                        {
+                            "Name":  "Miranda Kamp",
+                            "Mail":  "miranda.kamp@nice.com"
+                        },
+                        {
+                            "Name":  "Slim Zouari",
+                            "Mail":  "slim.zouari@nice.com"
+                        },
+                        {
+                            "Name":  "Dinesh Deshpande",
+                            "Mail":  "Dinesh.Deshpande@nice.com"
+                        },
+                        {
+                            "Name":  "Diana Badila",
+                            "Mail":  "diana.badila@nice.com"
+                        },
+                        {
+                            "Name":  "Sachin Hegadepatil",
+                            "Mail":  "Sachin.HegadePatil@nice.com"
+                        },
+                        {
+                            "Name":  "Marius Waldhorst",
+                            "Mail":  "Marius.Waldhorst@nice.com"
+                        },
+                        {
+                            "Name":  "Hitesh Kachave",
+                            "Mail":  "Hitesh.Kachave@nice.com"
+                        },
+                        {
+                            "Name":  "Ankit Jain",
+                            "Mail":  "Ankit.Jain@niceactimize.com"
+                        },
+                        {
+                            "Name":  "Dipmala Patil",
+                            "Mail":  "Dipmala.Patil@nice.com"
+                        },
+                        {
+                            "Name":  "Gerard Van Wengerden",
+                            "Mail":  "gerard.vanwengerden@nice.com"
+                        },
+                        {
+                            "Name":  "Shruti Kolte",
+                            "Mail":  "Shruti.Kolte@niceactimize.com"
+                        },
+                        {
+                            "Name":  "Cuan McCutcheon",
+                            "Mail":  "Cuan.McCutcheon@nice.com"
+                        },
+                        {
+                            "Name":  "Dipali Waghole",
+                            "Mail":  "Dipali.Waghole@nice.com"
+                        },
+                        {
+                            "Name":  "Nikhil Kabinittal",
+                            "Mail":  "nikhil.kabinittal@niceactimize.com"
+                        },
+                        {
+                            "Name":  "Rohini Birajdar",
+                            "Mail":  "Rohini.Birajdar@nice.com"
+                        },
+                        {
+                            "Name":  "Trupti Sable",
+                            "Mail":  "Trupti.Sable@niceactimize.com"
+                        }
+                    ]
+    },
+    {
+        "Group":  "BitBucket Administrators",
+        "Members":  [
+                        {
+                            "Name":  "Hans Smit",
+                            "Mail":  "hans.smit@nice.com"
+                        },
+                        {
+                            "Name":  "Mustafa Omerovic",
+                            "Mail":  "mustafa.omerovic@nice.com"
+                        },
+                        {
+                            "Name":  "Daniel Kurth",
+                            "Mail":  "Daniel.Kurth@nice.com"
+                        },
+                        {
+                            "Name":  "Jan Armijn van Dam",
+                            "Mail":  "janarmijn.vandam@nice.com"
+                        },
+                        {
+                            "Name":  "Cees Kaas",
+                            "Mail":  "cees.kaas@nice.com"
+                        },
+                        {
+                            "Name":  "Thomas Wensink",
+                            "Mail":  "thomas.wensink-sneeboer@nice.com"
+                        },
+                        {
+                            "Name":  "Hans De Groot",
+                            "Mail":  "hans.degroot@nice.com"
+                        },
+                        {
+                            "Name":  "Jeffrey Bindinga",
+                            "Mail":  "Jeffrey.Bindinga@nice.com"
+                        },
+                        {
+                            "Name":  "Dmitry Obriskiy",
+                            "Mail":  "Dmitry.Obriskiy@nice.com"
+                        },
+                        {
+                            "Name":  "Murat Ilkdogan",
+                            "Mail":  "Murat.Ilkdogan@nice.com"
+                        },
+                        {
+                            "Name":  "Merijn Baars",
+                            "Mail":  "merijn.baars@nice.com"
+                        },
+                        {
+                            "Name":  "Mathijs de Zwart",
+                            "Mail":  "Mathijs.deZwart@nice.com"
+                        },
+                        {
+                            "Name":  "Marius Waldhorst",
+                            "Mail":  "Marius.Waldhorst@nice.com"
+                        }
+                    ]
+    },
+    {
+        "Group":  "BitBucket ASG",
+        "Members":  {
+
+                    }
+    },
+    {
+        "Group":  "BitBucket External Access",
+        "Members":  [
+                        {
+                            "Name":  "Jeffrey Bindinga",
+                            "Mail":  "Jeffrey.Bindinga@nice.com"
+                        },
+                        {
+                            "Name":  "Steve Pitt",
+                            "Mail":  "Steve.Pitt@nice.com"
+                        },
+                        {
+                            "Name":  "Dmitriy Romanyuk",
+                            "Mail":  "dmitriy.romanyuk@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Vladimir Garbar",
+                            "Mail":  "vladimir.garbar@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Vitaly Golyak",
+                            "Mail":  "vitaliy.golyak@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Konstantin Kovalenko",
+                            "Mail":  "konstantin.kovalenko@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Alexey Dudnik",
+                            "Mail":  "alexey.dudnik@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Yana sobolieva",
+                            "Mail":  "yana.sobolieva@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Oleg Pustovoy",
+                            "Mail":  "oleg.pustovoy@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Dmitriy Kalnauz",
+                            "Mail":  "dmitriy.kalnauz@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Alexander Kolvastr",
+                            "Mail":  "alexander.kolvastr@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Lesia Borshchova",
+                            "Mail":  "lesia.borshchova@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Tatiana Kumar",
+                            "Mail":  "tatiana.kumar@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Oleg Philippov",
+                            "Mail":  "oleg.philippov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Artem Vysotskiy",
+                            "Mail":  "artem.vysotskiy@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Yevgeniy Goncharov",
+                            "Mail":  "evgeniy.goncharov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Elena Bulina",
+                            "Mail":  "elena.bulina@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Tatiana Shablia",
+                            "Mail":  "tatiana.shablia@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Vitalii Meshcheryakov",
+                            "Mail":  "vitalii.meshcheryakov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Eleonora Lebedeva",
+                            "Mail":  "eleonora.lebedeva@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Gennadiy Kruglov",
+                            "Mail":  "gennadiy.kruglov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Nikolay Chernoglazov",
+                            "Mail":  "nikolay.chernoglazov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Veronika Romanova",
+                            "Mail":  "veronika.romanova@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Natalia Zubkevich",
+                            "Mail":  "natalia.zubkevich@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Kateryna Pylypenko",
+                            "Mail":  "kateryna.pylypenko@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Alla Brynza",
+                            "Mail":  "alla.brynza@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Maxim Fedchenko",
+                            "Mail":  "maxim.fedchenko@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Andrey Gorlenko",
+                            "Mail":  "andrey.gorlenko@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Pavel Bondarchuk",
+                            "Mail":  "pavel.bondarchuk@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Osman Kartal",
+                            "Mail":  "kadir.kartal@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Marina Antonova",
+                            "Mail":  "marina.antonova@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Elena Lipskaia",
+                            "Mail":  "elena.lipskaia@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Igor Lysyi",
+                            "Mail":  "igor.lysyi@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Alina Zabolotnaia",
+                            "Mail":  "alina.zabolotnaia@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Dmitriy Riabchenko",
+                            "Mail":  "dmitriy.riabchenko@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Andrey Kurachevskyi",
+                            "Mail":  "andrey.kurachevskiy@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Katerina Kubyshka",
+                            "Mail":  "katerina.kubyshka@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Alexey Dobrovolskiy",
+                            "Mail":  "alexei.dobrovolskiy@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Artur Tserekh",
+                            "Mail":  "artur.tserekh@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Semyon Popov",
+                            "Mail":  "semyon.popov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Dmitriy Zanora",
+                            "Mail":  "dmitriy.zanora@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Dmitriy Kolodiychuk",
+                            "Mail":  "dmitriy.kolodiychuk@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Roman Onofreychuk",
+                            "Mail":  "roman.onofreychuk@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Yan Gorshkov",
+                            "Mail":  "yan.gorshkov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Sergey Marushchak",
+                            "Mail":  "sergey.marushchak@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Vladislav Yavorskiy",
+                            "Mail":  "vladislav.yavorskiy@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Anna Paseka",
+                            "Mail":  "anna.paseka@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Andrey Kurachevskiy",
+                            "Mail":  "andrey.kurachevskyi@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Nikita Reznikov",
+                            "Mail":  "nikita.reznikov@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Ekaterina Mozharovskaia",
+                            "Mail":  "ekaterina.mozharovskaia@hys-enterprise.com"
+                        },
+                        {
+                            "Name":  "Nazar Kobuk",
+                            "Mail":  "nazar.kobuk@hys-enterprise.com"
+                        }
+                    ]
+    },
+    {
+        "Group":  "BitBucket Read",
+        "Members":  {
+                        "Name":  "BitBucketReadOnly",
+                        "Mail":  "BitBucketReadOnly@ad.cssrd.com"
+                    }
+    }
+]
